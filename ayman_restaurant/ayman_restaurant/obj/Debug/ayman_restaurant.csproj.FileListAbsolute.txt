@@ -1,0 +1,42 @@
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\bin\Debug\ayman_restaurant.exe.config
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\bin\Debug\ayman_restaurant.exe
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\bin\Debug\ayman_restaurant.pdb
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.main.resources
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.login_in.resources
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.Properties.Resources.resources
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.csproj.GenerateResource.cache
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.exe
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.pdb
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.frbilladd.resources
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.frproudect.resources
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.fruser.resources
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.frsupplier.resources
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\bin\Debug\EntityFramework.dll
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\bin\Debug\EntityFramework.xml
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.csproj.CopyComplete
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.frpurchasing.resources
+C:\Users\AYMAN\Desktop\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.csprojAssemblyReference.cache
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\bin\Debug\ayman_restaurant.exe.config
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\bin\Debug\ayman_restaurant.exe
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\bin\Debug\ayman_restaurant.pdb
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\bin\Debug\EntityFramework.dll
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\bin\Debug\EntityFramework.SqlServer.dll
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\bin\Debug\EntityFramework.xml
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\bin\Debug\EntityFramework.SqlServer.xml
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.csproj.AssemblyReference.cache
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.csproj.SuggestedBindingRedirects.cache
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.frbilladd.resources
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.main.resources
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.login_in.resources
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.frproudect.resources
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.fruser.resources
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.frsupplier.resources
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.frpurchasing.resources
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.Properties.Resources.resources
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.csproj.GenerateResource.cache
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.csproj.CoreCompileInputs.cache
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.csproj.CopyComplete
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.exe
+D:\c# and database\projects\ayman_restaurant\ayman_restaurant\obj\Debug\ayman_restaurant.pdb
